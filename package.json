@@ -1,0 +1,20 @@
+{
+  "name": "emkhizer-oop-cli-based-project-10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^10.1.6",
+    "typescript": "^5.5.4"
+  }
+  
+}
